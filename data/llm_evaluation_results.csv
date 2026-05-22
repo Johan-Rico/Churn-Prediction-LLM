@@ -1,0 +1,16 @@
+id,descripcion,probabilidad,riesgo_esperado,score,score_pct,keyword_ok,nivel_ok,longitud_ok
+1,Cliente nuevo con contrato mes a mes y fibra óptica,0.82,alto,3,100.0,True,True,True
+2,Cliente fiel con contrato bianual y DSL,0.08,bajo,3,100.0,True,True,True
+3,"Cliente con cargo alto, sin soporte técnico",0.75,alto,3,100.0,True,True,True
+4,"Cliente con riesgo medio, contrato anual",0.45,medio,3,100.0,True,True,True
+5,"Senior citizen sin pareja, fibra óptica cara",0.78,alto,3,100.0,True,True,True
+6,Cliente con soporte técnico y contrato anual,0.22,bajo,3,100.0,True,True,True
+7,Cliente muy nuevo sin ningún servicio adicional,0.88,alto,3,100.0,True,True,True
+8,Cliente antiguo con todos los servicios,0.05,bajo,3,100.0,True,True,True
+9,Cliente con factura muy alta y pago electrónico,0.8,alto,3,100.0,True,True,True
+10,"Cliente con riesgo medio, sin dependientes",0.48,medio,2,66.7,True,False,True
+11,"Cliente con pareja y contrato anual, bajo riesgo",0.15,bajo,3,100.0,True,True,True
+12,Cliente nuevo sin internet,0.35,bajo,2,66.7,True,False,True
+13,Cliente con fibra óptica y contrato bianual,0.12,bajo,3,100.0,True,True,True
+14,Cliente con cargo moderado y riesgo medio,0.52,medio,2,66.7,True,False,True
+15,Cliente con tenure muy alto y todos los servicios,0.04,bajo,3,100.0,True,True,True
