@@ -138,8 +138,5 @@ Evaluación LLM: 93.3% score promedio sobre 15 casos de prueba con ground truth.
 ---
 
 ## Notas
-
-- El archivo `.env` con la API key no se sube a GitHub. Cada integrante crea el suyo localmente.
-- El dataset original debe estar en `data/WA_Fn-UseC_-Telco-Customer-Churn.csv`.
 - Ejecutar los notebooks en orden: `01` → `02` → `03`.
 - Python 3.13 requerido.
