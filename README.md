@@ -48,4 +48,12 @@ python src/llm.py
 ```
  
 Genera una explicación en español para un cliente de ejemplo con 82% de probabilidad de churn.
+
+### Paso 4 — Ejecutar la app de Streamlit
+
+```bash
+streamlit run app/main.py
+```
+
+Abre la interfaz, completa el formulario del cliente y presiona el botón de predicción para ver la probabilidad de churn y la explicación automática.
  
