@@ -125,6 +125,12 @@ Evaluación LLM: 93.3% score promedio sobre 15 casos de prueba con ground truth.
 
 [Link al video demo] — Actualizar con el link de YouTube, Drive o Loom
 
+## App desplegada
+
+Puedes probar la app aquí:
+
+https://churn-prediction-ia.streamlit.app/
+
 ---
 
 ## Integrantes

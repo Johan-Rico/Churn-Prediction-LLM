@@ -125,6 +125,8 @@ Resultado esperado:
 - Puedes completar los datos del cliente desde la barra lateral.
 - Al pulsar **Predecir churn**, se muestra la clase predicha, la probabilidad y la explicación automática.
 
+![Demo desplegada](image-5.png)
+
 ANTES
 ![Streamlit antes de predecir](image-4.png)
 
@@ -133,36 +135,14 @@ DESPUES
 
 ### 5.5 Demo interactiva desplegada
 
-Si el proyecto fue publicado en una plataforma como Streamlit Cloud, HuggingFace Spaces o Railway, agrega aquí el enlace final de la demo:
+El proyecto fue publicado en Streamlit Cloud:
 
-`URL de la demo: https://...`
-
-En esta sección conviene incluir dos evidencias:
-
-- La pantalla inicial de la demo desplegada.
-- La pantalla con una predicción ya ejecutada.
-
-![Demo desplegada](image-5.png)
+https://churn-prediction-ia.streamlit.app/
 
 
-## 6. Qué capturas de pantalla tomar
+![alt text](image-8.png)
+![alt text](image-7.png)
 
-Para una entrega clara, toma estas capturas:
-
-| Captura | Qué debe verse | Momento recomendado |
-|---|---|---|
-| 1 | Notebook `01_eda.ipynb` con celdas ejecutadas y una o más gráficas visibles | Después de terminar el EDA |
-| 2 | Carpeta `data/figures/` o un notebook mostrando los gráficos principales | Al finalizar el análisis exploratorio |
-| 3 | Notebook `02_modeling.ipynb` mostrando la comparación de modelos o métricas finales | Después del entrenamiento |
-| 4 | Salida de la terminal al ejecutar `python src/llm.py` con la explicación generada | Al probar el módulo LLM |
-| 5 | Aplicación Streamlit antes de hacer clic en **Predecir churn** con datos cargados en el formulario | Antes de ejecutar la predicción |
-| 6 | Aplicación Streamlit mostrando el resultado, la probabilidad y la explicación en español | Después de la predicción |
-
-### Recomendación para las capturas
-
-- Usa capturas nítidas y completas, sin cortar el título ni el resultado principal.
-- Incluye una captura por cada fase importante del proyecto.
-- Si la entrega pide menos imágenes, prioriza las capturas 3, 5 y 6.
 
 ## 7. Validación rápida
 
