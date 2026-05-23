@@ -1,5 +1,29 @@
 .env
+.env_test
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.venv_test/
+venv/
+env/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Python build / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
 
