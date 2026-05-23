@@ -6,6 +6,7 @@ scipy==1.17.1
 # Visualización
 matplotlib==3.10.5
 seaborn==0.13.2
+sweetviz
  
 # Machine Learning
 scikit-learn==1.8.0
