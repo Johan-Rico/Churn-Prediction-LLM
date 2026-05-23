@@ -123,7 +123,7 @@ Evaluación LLM: 93.3% score promedio sobre 15 casos de prueba con ground truth.
 
 ## Video demo
 
-[Link al video demo] — Actualizar con el link de YouTube, Drive o Loom
+Enlace al demo en Google Drive: https://drive.google.com/drive/folders/1ve_XmJX_hqjDIeeymR8xjd6T2nBItvR2?usp=sharing
 
 ## App desplegada
 
